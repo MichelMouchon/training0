@@ -8,5 +8,7 @@
                           TRG(*NO)
              OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
              CRTORD     CUID(&CUID)
+
+             /* some new Customized2 code merged */
              ENDPGM
 
